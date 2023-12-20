@@ -83,7 +83,13 @@ M28 BX (3Ah), B5
 | 622 | | | 1 &times; B2, 1 &times; B6 | | | 8.0 Ah | C |
 | 802 | | | 1 &times; B2, 1 &times; B6 | 2 &times; HB8 | | 16.0 Ah | FC |
 
-Notes:
+##### Observations:
+- The first digit indicates the highest single battery pack capacity.
+- The second digit indicates either the second digit to the capacity, or that you get two different capacity battery packs.
+- The last digit is usually 1 or 2 indicating how many batteries in total come with it.
+- The only misnomer seems to be 421 where 2 different capacity packs are included but the last digit is 1 for reasons unknown.
+
+##### Notes:
 - L4 batteries use USB to charge and come with a USB cable.
 - M12 C chargers only work with M12 batteries.
 - M18 C chargers with with both M12 and M18 batteries.
