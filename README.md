@@ -43,6 +43,7 @@ F SAGV 115 X PDB - 5step dial
 F SAGF 125 X PDB - flat gear head
 F SAGV 125 X B
 FL AG  230 X PDB - paddle, brake, fixtec, antikickback, linelockout
+BLSAG  115 X PD - brushless
 
 FHSAG  (125|125) X PDB - high output, linelockout, no antikickback, fixtec, brake
   SAG  115 X PDB - 
@@ -90,7 +91,7 @@ DMS = Dead Man Switch
    AG 16-125 XC = 1520W
    AG 16-125 XC/DMS = 1520 W
    AG 800-115 E = 800W
-   AGV22-230 DMS - 2200
+   AGV 22-230 DMS - 2200
 
 | Number | Wattage |
 | - | - |
