@@ -126,6 +126,7 @@ M28 BX (3Ah), B5
 | 22 | | | 2 &times; 1.5 Ah | | | 3.0 Ah | 30 min |
 | 32 | | | 2 &times; 3.0 Ah | | | 6.0 Ah | 60 min |
 | 121 | | | | 1 &times; HB12 | | 12.0 Ah | FC |
+| 122 | | | | 2 &times; HB12 | | 24.0 Ah | FC |
 | 151 | | | 1 &times; 1.5 Ah | | | 1.5 Ah | 30 min |
 | 201 | | | 1 &times; B2 | 1 &times; B2 | | 2.0 Ah | C/FC |
 | 202 | | | 2 &times; B2 | 2 &times; B2 | | 4.0 Ah | C/FC |
