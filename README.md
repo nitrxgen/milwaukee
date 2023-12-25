@@ -123,21 +123,22 @@ M28 BX (3Ah), B5
 | - | - | :- | :- | :- | :- | :- | :- |
 | 0 | No accessories | | | | | | |
 | 21 | | | 1 &times; 1.5 Ah | | | 1.5 Ah | 30 min |
-| 22 | | | 2 &times; 1.5 Ah | | | 1.5 Ah | 30 min |
-| 32 | | | 2 &times; 3.0 Ah | | | 1.5 Ah | 60 min |
+| 22 | | | 2 &times; 1.5 Ah | | | 3.0 Ah | 30 min |
+| 32 | | | 2 &times; 3.0 Ah | | | 6.0 Ah | 60 min |
 | 121 | | | | 1 &times; HB12 | | 12.0 Ah | FC |
 | 151 | | | 1 &times; 1.5 Ah | | | 1.5 Ah | 30 min |
 | 201 | | | 1 &times; B2 | 1 &times; B2 | | 2.0 Ah | C/FC |
-| 202 | | | 2 &times; B2 | 2 &times; B2 | | 2.0 Ah | C/FC |
+| 202 | | | 2 &times; B2 | 2 &times; B2 | | 4.0 Ah | C/FC |
 | 301 | | 1 &times; B3 | 1 &times; B3 | | 1 &times; CP203 | 3.0 Ah | C/L4 |
-| 302 | | | | 2 &times; HB3 | | 3.0 Ah | C/FC |
+| 302 | | | | 2 &times; HB3 | | 6.0 Ah | C/FC |
 | 401 | | | 1 &times; B4 | | | 4.0 Ah | C |
-| 402 | | | 2 &times; B4 | 2 &times; B4 | | 4.0 Ah | C/FC |
+| 402 | | | 2 &times; B4 | 2 &times; B4 | | 8.0 Ah | C/FC |
 | 421 | | | 1 &times; B2, 1 &times; B4 | 1 &times; B2, 1 &times; B4 | | 6.0 Ah | C |
 | 422 | | | 1 &times; B2, 1 &times; B4 | | | 6.0 Ah | C |
-| 502 | | | | 2 &times; B5 | | 5.0 Ah | C/FC |
+| 501 | | | | 1 &times; B5 | | 5.0 Ah | C/FC |
+| 502 | | | | 2 &times; B5 | | 10.0 Ah | C/FC |
 | 551 | | | | 1 &times; HB5.5 | | 5.5 Ah | FC |
-| 552 | | | | 2 &times; HB5.5 | | 5.5 Ah | FC |
+| 552 | | | | 2 &times; HB5.5 | | 11.0 Ah | FC |
 | 602 | | | 2 &times; B6 | | 2 &times; XC406 | 12.0 Ah | C/Integrated |
 | 622 | | | 1 &times; B2, 1 &times; B6 | | | 8.0 Ah | C |
 | 802 | | | 1 &times; B2, 1 &times; B6 | 2 &times; HB8 | | 16.0 Ah | FC |
@@ -159,4 +160,5 @@ M28 BX (3Ah), B5
 | - | - |
 | B | Carry tool bag |
 | C | Kitbox |
+| P | PackOut Case |
 | X | HD Case |
